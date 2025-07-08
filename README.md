@@ -21,6 +21,20 @@ Worked as part of a team to design a system that tracks the number of people ent
 Created a chess enigne in Python as part of my A-Level Computer Science coursework, achieving an A grade. The engine includes multiple difficulty levels utilising techniques such as Minimax and Alpha-Beta pruning algorithms. I built a GUI for it using the Tkinter library in Python.
 **Technologies**: Python, Tkinter, OOP, AI algorithms
 
+## Hackathons and Competitions
+### National Cipher Challenge
+I participated as a team representing my school in the National Cipher Challenge organised by the University of Southampton. We collaboratively wrote programs in Python to decrypt ciphertext for a magnitude of ciphers, which helped improve my programming versatility.
+
+## Work Experience
+## IT Technician - Every Child Online 2023
+Organised and completed a week of work experience at an IT asset disposition (ITAD) company.
+- Installed operating systems via PXE boot and configured BIOS settings.
+- Worked alongside a team to troubleshoot hardware and firmware issues.
+- Deconstructed and rebuilt PCs, and recycled components (including PCBs)
+- This opportunity refined my tech literacy, teamwork, and gave me hands-on experience with real-world IT hardware.
+
+
+
 
 
 
