@@ -20,6 +20,7 @@ Worked as part of a team to design a system that tracks the number of people ent
 ### Chess AI Engine (A-Level NEA)
 Created a chess enigne in Python as part of my A-Level Computer Science coursework, achieving an A grade. The engine includes multiple difficulty levels utilising techniques such as Minimax and Alpha-Beta pruning algorithms. I built a GUI for it using the Tkinter library in Python.
 **Technologies**: Python, Tkinter, OOP, AI algorithms
+[Chess](https://github.com/Sonny-Pullen/Chess.git)
 
 ## Hackathons and Competitions
 ### National Cipher Challenge
