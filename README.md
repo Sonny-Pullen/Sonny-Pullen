@@ -13,7 +13,7 @@ I am a Robotics, Mechatronics, and Control Engineering student at Loughborough U
 For my Extended Project Qualification, I developed a fully autonomous robot car using Arduino. It continuously scans its surroundings using a servo-mounted ultrasonic sensor and avoids obstacles while navigating. The car is fully self-driven and coded from scratch.
 **Technologies:** Arduino, C/C++, Ultrasonic Sensors, Servo Motor, DC Motors.
 
-### People-Counting System (Univeristy Group Project)
+### Cafateria Monitoring System (Univeristy Group Project)
 Worked as part of a team to design a system that tracks the number of people entering and exiting the university cafeteria. The system  integrates various sensors, including ultrasonic, vibration, light sensors, and buttons, for accurate detection and data collection.
 **Technologies"": Arduino, C, Sensor Integration
 
