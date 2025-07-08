@@ -31,7 +31,7 @@ I participated as a team representing my school in the National Cipher Challenge
 Organised and completed a week of work experience at an IT asset disposition (ITAD) company.
 - Installed operating systems via PXE boot and configured BIOS settings.
 - Worked alongside a team to troubleshoot hardware and firmware issues.
-- Deconstructed and rebuilt PCs, and recycled components (including PCBs)
+- Deconstructed and rebuilt PCs, and recycled components (including PCBs).
 This opportunity refined my tech literacy, teamwork, and gave me hands-on experience with real-world IT hardware.
 
 
