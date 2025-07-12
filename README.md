@@ -6,7 +6,7 @@ I am a Robotics, Mechatronics, and Control Engineering student at Loughborough U
 - **Languages**: Python, C, C++, Arduino, MATLAB
 - **Tools & Platforms**: Arduino IDE, Git/GitHub, Multisim, MATLAB, NX Siemens
 - **Currently Learning**: React, HTML, CSS
-- **Interests**: Automation, Control Engineering, Bipedal Robots
+- **Interests**: Automation, Control Engineering, Bipedal Robots, AgriTech
 
 ## Projects
 ### Autonomous Obstacle Avoidance Car
