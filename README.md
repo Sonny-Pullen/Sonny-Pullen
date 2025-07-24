@@ -7,3 +7,5 @@ I am a Robotics, Mechatronics, and Control Engineering student at Loughborough U
 - **Tools & Platforms**: Arduino IDE, Git/GitHub, Multisim, MATLAB, NX Siemens
 - **Currently Learning**: React, HTML, CSS
 - **Interests**: Automation, Control Engineering, Bipedal Robots, AgriTech
+
+More [Full ReadMe](https://github.com/Sonny-Pullen/ReadMeExtended)
